@@ -1,6 +1,3 @@
-# Microservices Project Make File
-# author: umer mansoor
-
 VIRTUALENV = $(shell which virtualenv)
 
 clean: shutdown
