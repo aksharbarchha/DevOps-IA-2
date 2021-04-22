@@ -10,7 +10,7 @@ Flask.
  * Movie Service (Port: 5001) : Provides information like movie ratings, title, etc.
  * Show Times Service (Port: 5002) : Provides show times information.
  * Booking Service (Port: 5003) : Provides booking information. 
- * Users Service (Port: 5000) : Provides movie suggestions for users by communicating with other services.
+ * Users Service (Port: 5004) : Provides movie suggestions for users by communicating with other services.
 
 Install
 =======
